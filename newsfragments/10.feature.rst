@@ -1,0 +1,2 @@
+Expose some basic functions and constants.
+This change is needed to make dopple usable as a library.
